@@ -1,5 +1,5 @@
 # Airport-Database
-A DBMS MINI PROJECT ON AIRPORT DATABSE
+**A DBMS MINI PROJECT ON AIRPORT DATABSE**
 
 This is a project on Airport Database.
 There are two folders- AirportDatabase and LoggedIn.
@@ -13,3 +13,8 @@ This folder contains all the files that act once the user is logged into his acc
 It has Various features like AirTrafficControl,Fuel Storage, Cargo Maintenance etc.
 
 The Third folder is "airport.sql" databse folder which you got to import in the phpmyadmin mysql database.
+
+**AN TRIGGER IS USED INSIDE THE PROJECT THAT WILL CALCULATE THE COST OF THE FUEL PUMPED ON TO AIRCRAFTS.**
+
+A MINI PROJECT BY:-
+**VIGANESHA H R and TEJAAS M REDDY**
